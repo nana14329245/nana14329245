@@ -1,16 +1,24 @@
-## Hi there 👋
+<a href="https://github.com/nana14329245">
+  <img src="assets/profile.png" alt="Singha Thirasak — Bangkok, Thailand | VS Code | HTML, CSS, JavaScript, TypeScript, Python" width="100%" />
+</a>
 
-<!--
-**nana14329245/nana14329245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:nanasing00@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/nana14329245?tab=repositories">Repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/nana14329245?tab=overview">Activity</a>
+</p>
 
-Here are some ideas to get you started:
+<details>
+<summary>Profile details</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Singha Thirasak
+- **Location:** Bangkok, Thailand
+- **Birthday:** 16/08/1998
+- **Editor:** VS Code
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python
+- **Email:** [nanasing00@gmail.com](mailto:nanasing00@gmail.com)
+- **GitHub:** [nana14329245](https://github.com/nana14329245)
+
+</details>
