@@ -1,5 +1,5 @@
 <a href="https://github.com/nana14329245">
-  <img src="assets/profile.png" alt="Singha Thirasak — Bangkok, Thailand | VS Code | HTML, CSS, JavaScript, TypeScript, Python" width="100%" />
+  <img src="profile.png" alt="Singha Thirasak — Bangkok, Thailand | VS Code | HTML, CSS, JavaScript, TypeScript, Python" width="100%" />
 </a>
 
 <p align="center">
